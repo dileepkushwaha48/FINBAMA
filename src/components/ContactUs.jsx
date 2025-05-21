@@ -2,14 +2,14 @@ import React from 'react';
 
 export default function ContactUs() {
   return (
-    <section id="ContactUs" className="bg-white py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
+    <section id="ContactUs" className="bg-green-600 py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-5xl mx-auto">
         {/* Section Header */}
         <div className="text-center mb-8 sm:mb-12">
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-blue-900 mb-3 sm:mb-4">
             Contact Us
           </h2>
-          <p className="text-gray-700 text-sm sm:text-base lg:text-lg max-w-2xl mx-auto mb-6">
+          <p className="text-gray-900 text-sm sm:text-base lg:text-lg max-w-2xl mx-auto mb-6">
             Have questions or need a custom financial plan? Let's talk.
           </p>
         </div>
